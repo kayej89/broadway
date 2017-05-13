@@ -26,7 +26,7 @@ h4 {
 h1,
 a:link,
 h3,
-.footer {
+footer {
   color: white;
 }
 
@@ -38,7 +38,7 @@ a {
   font-size: 18px;
 }
 
-.footer {
+footer {
   text-align: left;
   background-color: dimgray;
   font-size: 11px;
